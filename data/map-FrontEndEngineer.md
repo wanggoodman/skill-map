@@ -19,7 +19,7 @@
 	  - PhotoShop/Paint.net/Fireworks/GIMP/Sketch
 
 ## 开发工具
-
+firefox browser tools
 ### 编辑器和IDE
 	- VIM/Sublime Text2
 	- Notepad++/EditPlus
